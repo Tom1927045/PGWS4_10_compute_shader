@@ -7,10 +7,13 @@
 ![結果画像2](result2.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.png)
+![result](https://user-images.githubusercontent.com/55951546/142901181-a8a9b969-844c-4836-8bfa-9ba502a5d7c1.gif)
+![image](https://user-images.githubusercontent.com/55951546/142901405-62637c2c-842d-4447-b857-d3dee0f15972.png)
+![image](https://user-images.githubusercontent.com/55951546/142901458-3dbb65c9-3e9e-456f-8701-6b228dd0c48c.png)
+
 
 # 自分なりに変更した点
--
+- オブジェクトがクルクル円を描くようにした
 -
 -
 
